@@ -1,0 +1,3 @@
+C:/Users/Thawan/CLionProjects/promotion-counting-problem/cmake-build-debug/CMakeFiles/promotion_counting_problem.dir
+C:/Users/Thawan/CLionProjects/promotion-counting-problem/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Thawan/CLionProjects/promotion-counting-problem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
